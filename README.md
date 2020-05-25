@@ -6,4 +6,4 @@ Project Specifications:
 3) User can select/deselect seats
 4) User can not select occupied seats
 5) Number of seats and price will update
-6) Save seats, movie and price to local storage so that UI is still populated on refresh
+
